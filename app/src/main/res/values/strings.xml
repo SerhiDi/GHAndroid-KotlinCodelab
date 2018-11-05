@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">KotlinCodelab</string>
+    <string name="changed_the_text_again">Hello Universe</string>
 </resources>
