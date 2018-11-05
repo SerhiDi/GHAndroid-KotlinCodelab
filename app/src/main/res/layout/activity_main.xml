@@ -26,6 +26,7 @@
     />
 
     <Button
+            android:onClick="toastMe"
             android:background="@color/buttonBackground"
             android:id="@+id/toast_button"
             android:layout_width="wrap_content"
@@ -39,6 +40,7 @@
             app:layout_constraintTop_toBottomOf="@+id/textView"/>
 
     <Button
+            android:onClick="countMe"
             android:background="@color/buttonBackground"
             android:id="@+id/count_button"
             android:layout_width="wrap_content"
